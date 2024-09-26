@@ -4,4 +4,3 @@ This repository contains a Bike Price Prediction Model aimed at predicting the p
 
 ---
 
-If you'd like to tailor the paragraph further, feel free to provide any additional specifics!
