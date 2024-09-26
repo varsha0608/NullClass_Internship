@@ -2,3 +2,4 @@ The Requirements for Bike Price Prediction Model are the Following Libraries:
 1.numpy
 2.pandas
 3.matplotlib
+4.seaborn
