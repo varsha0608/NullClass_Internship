@@ -4,3 +4,27 @@ This repository contains a Bike Price Prediction Model aimed at predicting the p
 
 ---
 
+
+
+
+
+### Key Features
+
+1. **Data Preprocessing**:  
+   Includes cleaning, handling missing values, and scaling data with `StandardScaler` and `MinMaxScaler`.
+
+2. **Exploratory Data Analysis (EDA)**:  
+   Visualizations using `matplotlib` and `seaborn` to explore distributions, correlations, and outliers.
+
+3. **Statistical Insights**:  
+   Applies Q-Q plots, hypothesis testing, and distribution checks to analyze data patterns.
+
+4. **Machine Learning Models**:  
+   Implements Linear Regression, Ridge, and Lasso to predict prices, evaluated by R-squared and Mean Squared Error.
+
+5. **Deployment-Ready**:  
+   Easily adaptable for real-world scenarios like price forecasting for dealerships or e-commerce platforms.
+
+---
+
+
